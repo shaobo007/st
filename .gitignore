@@ -2,3 +2,5 @@
 *.rej
 *.o
 st
+*.diff
+*.patch
